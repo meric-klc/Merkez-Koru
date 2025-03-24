@@ -1,0 +1,38 @@
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\bin\Debug\net8.0-windows\merkezkoru.exe
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\bin\Debug\net8.0-windows\merkezkoru.deps.json
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\bin\Debug\net8.0-windows\merkezkoru.runtimeconfig.json
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\bin\Debug\net8.0-windows\merkezkoru.dll
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\bin\Debug\net8.0-windows\merkezkoru.pdb
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\obj\Debug\net8.0-windows\merkezkoru_MarkupCompile.cache
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.g.resources
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.AssemblyInfoInputs.cache
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.AssemblyInfo.cs
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.csproj.CoreCompileInputs.cache
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.dll
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\obj\Debug\net8.0-windows\refint\merkezkoru.dll
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.pdb
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.genruntimeconfig.cache
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\Game\Wpf game\merkezkoru\obj\Debug\net8.0-windows\ref\merkezkoru.dll
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\bin\Debug\net8.0-windows\merkezkoru.exe
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\bin\Debug\net8.0-windows\merkezkoru.deps.json
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\bin\Debug\net8.0-windows\merkezkoru.runtimeconfig.json
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\bin\Debug\net8.0-windows\merkezkoru.dll
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\bin\Debug\net8.0-windows\merkezkoru.pdb
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\obj\Debug\net8.0-windows\merkezkoru_MarkupCompile.cache
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.g.resources
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.AssemblyInfoInputs.cache
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.AssemblyInfo.cs
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.csproj.CoreCompileInputs.cache
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.dll
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\obj\Debug\net8.0-windows\refint\merkezkoru.dll
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.pdb
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\obj\Debug\net8.0-windows\merkezkoru.genruntimeconfig.cache
+C:\Users\meric\OneDrive\Masaüstü\Belgeler\Mero\2022317044 - Meriç Furkan KILIÇ - OOP\Nesne Oyun\merkezkoru\obj\Debug\net8.0-windows\ref\merkezkoru.dll
